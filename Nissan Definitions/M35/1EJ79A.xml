@@ -1,0 +1,30 @@
+<rom base="A2L">
+	<romid>
+		<xmlid>EJ79A</xmlid>
+		<caseid>7MFKAWNE</caseid>
+		<internalidaddress>8205</internalidaddress>
+		<internalidstring>EJ79A</internalidstring>
+		<ecuid>1EJ79A</ecuid>
+		<year>2007</year>
+		<market>JP</market>
+		<make>Nissan</make>
+		<model>FUGA</model>
+		<submodel>HR</submodel>
+		<transmission>AT</transmission>
+		<memmodel>SH7058</memmodel>
+		<endian>Big</endian>
+		<flashmethod>Nisprog</flashmethod>
+		<filesize>1024kb</filesize>
+		<author>Pytrex</author>
+		<version>EXPERIMENTAL</version>
+	</romid>
+
+
+	<table name="Speed Limiter (Fuel Cut)" storageaddress="0x8DFD"/>
+	<table name="Speed Limiter" storageaddress="0x9564"/>
+	
+	<table name="Radiator fan switching Table" storageaddress="0x8AB2"/>
+
+	<checksum type="alt" start="0x2040C" end="0x22572" sumloc="0x20404" xorloc="0x20408"/>
+
+</rom>

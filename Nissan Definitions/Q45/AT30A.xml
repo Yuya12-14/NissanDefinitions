@@ -1,0 +1,25 @@
+<rom base="A2L">
+	<romid>
+		<xmlid>AT30A</xmlid>
+		<caseid>Unknown</caseid>
+		<internalidaddress>3759</internalidaddress>
+		<internalidstring>AT30A</internalidstring>
+		<ecuid>1AT30A</ecuid>
+		<year>Unknown</year>
+		<market>JDM</market>
+		<make>Nissan</make>
+		<model>CYMA</model>
+		<submodel>VK45DE</submodel>
+		<transmission>AT</transmission>
+		<memmodel>SH7058</memmodel>
+		<filesize>512kb</filesize>
+		<author>YukaNii</author>
+	</romid>
+
+
+	<table name="Speed Limiter (Fuel Cut)" storageaddress="0x1DC0"/>
+	<table name="Speed Limiter" storageaddress="0x200E"/>
+	  <!--<checksum type="alt" start="0x1408" end="0x313A" sumloc="0x1400" xorloc="0x1404"/>-->
+</rom>
+
+

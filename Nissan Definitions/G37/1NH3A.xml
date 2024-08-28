@@ -1,0 +1,61 @@
+<rom base="A2L">
+	<romid>
+		<xmlid>1NH3A</xmlid>
+		<hwid>9FZ3SMDB</hwid>
+		<internalidaddress>8205</internalidaddress>
+		<internalidstring>1NH3A</internalidstring>
+		<ecuid>1NH3A</ecuid>
+		<year>10</year>
+		<market>JDM</market>
+		<make>Skyline</make>
+		<model>V36</model>
+		<submodel>Sedan</submodel>
+		<transmission>AT</transmission>
+		<memmodel>SH7059</memmodel>
+		<flashmethod>nisprog</flashmethod>
+		<filesize>1536kb</filesize>
+	</romid>
+
+	<table name="High Octane Ignition Trim" storageaddress="0xA338">
+		<table type="X Axis" storageaddress="0x1370A"/>
+		<table type="Y Axis" storageaddress="0x1371A"/>
+	</table>
+
+	<table name="Regular Ignition Trim" storageaddress="0xA438">
+		<table type="X Axis" storageaddress="0x1370A"/>
+		<table type="Y Axis" storageaddress="0x1371A"/>
+	</table>
+
+	<table name="QH0/ torque conversion map" storageaddress="0xFA70">
+		<table type="X Axis" storageaddress="0x15882"/>
+		<table type="Y Axis" storageaddress="0x13555"/>
+	</table>
+
+	<table name="QH0/ torque conversion map 2" storageaddress="0x19C10">
+		<table type="X Axis" storageaddress="0x1B564"/>
+		<table type="Y Axis" storageaddress="0x1AFF4"/>
+	</table>
+	
+	<table name="Fuel Compensation" storageaddress="0xA1E8">
+		<table type="X Axis" storageaddress="0x13D1A"/>
+		<table type="Y Axis" storageaddress="0x13CFA"/>
+	</table>
+
+	<table name="Fuel Target" storageaddress="0xA6F8">
+		<table type="X Axis" storageaddress="0x13378"/>
+		<table type="Y Axis" storageaddress="0x13501"/>
+	</table>
+
+	<table name="MAF" storageaddress="0x158F2"/>
+	<table name="MAF 2" storageaddress="0x15972"/>
+
+	<table name="MAF factor" storageaddress="0x8961" />
+
+	<table name="Load Base Fuel Schedule" storageaddress="0x16050" />
+
+	<checksum type="alt2" start = "0x8204" end = "0x17FFFF" sumloc="0x96F0" xorloc="0x96E8"/>
+
+
+
+
+</rom>

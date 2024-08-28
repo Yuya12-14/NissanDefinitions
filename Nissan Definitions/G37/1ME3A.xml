@@ -1,0 +1,27 @@
+<rom base="A2L">
+	<romid>
+		<xmlid>1ME3A</xmlid>
+		<hwid>9FZ3V5DD</hwid>
+		<internalidaddress>8205</internalidaddress>
+		<internalidstring>1ME3A</internalidstring>
+		<ecuid>1ME3A</ecuid>
+		<year>10</year>
+		<market>JDM</market>
+		<make>Skyline</make>
+		<model>V36</model>
+		<submodel>Sedan</submodel>
+		<transmission></transmission>
+		<memmodel>SH7059</memmodel>
+		<flashmethod>nisprog</flashmethod>
+		<filesize>1536kb</filesize>
+	</romid>
+
+	<table name="Radiator fan switching Table" storageaddress="0x89AB"/>
+
+	
+	<!-- <checksum type="alt2" start = "0x8204" end = "0x17FFFF" sumloc="0x96FC" xorloc="0x96F2"/> -->
+
+
+
+
+</rom>
