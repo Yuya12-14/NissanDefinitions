@@ -6,17 +6,14 @@
 		<internalidstring>EJ79A</internalidstring>
 		<ecuid>1EJ79A</ecuid>
 		<year>2007</year>
-		<market>JP</market>
+		<market>JDM</market>
 		<make>Nissan</make>
 		<model>FUGA</model>
 		<submodel>HR</submodel>
 		<transmission>AT</transmission>
 		<memmodel>SH7058</memmodel>
-		<endian>Big</endian>
-		<flashmethod>Nisprog</flashmethod>
 		<filesize>1024kb</filesize>
-		<author>Pytrex</author>
-		<version>EXPERIMENTAL</version>
+		<author>YukaNii</author>
 	</romid>
 
 

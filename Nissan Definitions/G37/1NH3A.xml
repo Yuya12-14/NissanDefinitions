@@ -5,14 +5,13 @@
 		<internalidaddress>8205</internalidaddress>
 		<internalidstring>1NH3A</internalidstring>
 		<ecuid>1NH3A</ecuid>
-		<year>10</year>
+		<year>Unknown</year>
 		<market>JDM</market>
 		<make>Skyline</make>
 		<model>V36</model>
 		<submodel>Sedan</submodel>
 		<transmission>AT</transmission>
 		<memmodel>SH7059</memmodel>
-		<flashmethod>nisprog</flashmethod>
 		<filesize>1536kb</filesize>
 	</romid>
 
