@@ -270,6 +270,7 @@
 	<table name="DTC 19" storageaddress="0x1B364"/>
 	<table name="DTC 20" storageaddress="0x1B368"/>
 
+	<table name="Radiator fan switching Table" storageaddress="0x8A85"/>
 
 
 

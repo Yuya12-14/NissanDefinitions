@@ -111,6 +111,9 @@
 		<table type="X Axis" storageaddress="0x80E8"/>
 		<table type="Y Axis" storageaddress="0x80C4"/>
 	</table>
+	
+	<table name="Radiator fan switching Table" storageaddress="0x5E94"/>
+
 
 	<checksum type="alt" start="0x1408" end="0x3182" sumloc="0x1400" xorloc="0x1404"/>
 	<checksum type="std" start="0" end="0x7FFFF" sumloc="0x6500" xorloc="0x64F8"/>

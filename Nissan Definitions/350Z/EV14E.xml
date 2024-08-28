@@ -1,0 +1,20 @@
+<rom base="A2L">
+	<romid>
+		<xmlid>EV14E</xmlid>
+		<caseid>7MFK38NF4</caseid>
+		<internalidaddress>8205</internalidaddress>
+		<internalidstring>EV14E</internalidstring>
+		<ecuid>1EV14E</ecuid>
+		<year>Unknown</year>
+		<market>JDM</market>
+		<make>Nissan</make>
+		<model>350Z</model>
+		<submodel>HR</submodel>
+		<transmission>Unknown</transmission>
+		<memmodel>SH7058</memmodel>
+		<filesize>1024kb</filesize>
+	</romid>
+
+	<table name="Radiator fan switching Table" storageaddress="0x8A8F"/>
+
+</rom>

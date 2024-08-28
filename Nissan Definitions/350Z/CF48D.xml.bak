@@ -210,8 +210,7 @@
 		<table type="X Axis" storageaddress="0xC7E2"/>
 		<table type="Y Axis" storageaddress="0xC7C2"/>
 	</table>
-
-	<table name="Fuel Compensation Map (16x16)" storageaddress="0x9471">
+<table name="Fuel Compensation Map (16x16)" storageaddress="0x9471">
 		<table type="X Axis" storageaddress="0xB50A"/>
 		<table type="Y Axis" storageaddress="0xB4AE"/>
 	</table>
